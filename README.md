@@ -4,7 +4,7 @@
 下载
 ------------------------------------
 
-使用git从[LessOrMore](https://github.com/luoyan35714/LessOrMore.git)主页下载项目
+使用git从[LessOrMore](https://github.com1/luoyan35714/LessOrMore.git)主页下载项目
 
 ``` bash
 git clone https://github.com/luoyan35714/LessOrMore.git
