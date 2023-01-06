@@ -178,7 +178,7 @@ entries:
   product: Jekyll Doc Theme
   version: 6.0
   folders:
-  - title: Overview
+  - title: Learn Kubernetes
     output: web, pdf
     folderitems:
 
